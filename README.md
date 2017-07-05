@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Examples
 
 Demo website：http://www.ityouknow.com/
@@ -50,3 +51,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 ![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
 
+=======
+# spring-boot
+学习spring-boot
+>>>>>>> 005218272eaf8d7eec6113c38cd028f84838118b
